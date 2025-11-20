@@ -1,6 +1,6 @@
 //package cardGame;
 
-public class  Card {
+public class Card {
 
     // Instance variables
     private String cardSuit;
